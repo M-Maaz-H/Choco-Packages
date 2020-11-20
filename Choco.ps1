@@ -6,6 +6,7 @@ choco install -y 7zip
 choco install -y notepadplusplus.install
 choco install -y vlc
 choco install -y git.install
+choco install -y nodejs.install
 choco install -y python
 choco install -y curl
 choco install -y wget
