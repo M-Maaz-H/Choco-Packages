@@ -23,7 +23,7 @@ choco install -y youtube-dl
 choco install -y croc
 choco install -y choco-cleaner
 choco install -y choco-upgrade-all-at-startup
-choco install -y tor
+choco install -y tor-browser
 choco install -y powershell-core
 choco install -y rufus
 choco install -y aria2
