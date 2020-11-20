@@ -22,3 +22,4 @@ choco install -y powershell-core
 choco install -y rufus
 choco install -y aria2
 choco install -y powertoys
+choco install -y cmder
