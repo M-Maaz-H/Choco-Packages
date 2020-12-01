@@ -2,7 +2,6 @@ choco install -y googlechrome
 choco install -y firefox
 choco install -y opera-gx
 choco install -y 7zip.install
-choco install -y 7zip
 choco install -y notepadplusplus.install
 choco install -y vlc
 choco install -y sysinternals
