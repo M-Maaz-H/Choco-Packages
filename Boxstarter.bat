@@ -1,0 +1,1 @@
+START msedge "https://boxstarter.org/package/nr/sysinternals,googlechrome,firefox,7zip.install,notepadplusplus.install,vlc,git.install,github-desktop,gh,nodejs.install,python,curl,powertoys,wget,youtube-dl,croc,choco-cleaner,choco-upgrade-all-at-startup,tor-browser,powershell-core,rufus,aria2,cmder,sumatrapdf.install"
